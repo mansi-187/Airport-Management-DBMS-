@@ -1,1 +1,1 @@
-# DBMS-Airport-Management-System
+# DBMS Airport Management System
